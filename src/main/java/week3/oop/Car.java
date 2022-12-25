@@ -11,6 +11,10 @@ public class Car {
         this.engineCapacity = engineCapacity;
     }
 
+    public Car() {
+
+    }
+
     public String getColor() {
         return color;
     }

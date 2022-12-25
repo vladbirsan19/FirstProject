@@ -1,0 +1,8 @@
+package week11.example7;
+
+public class Deadlock {
+
+    // TWO OR MORE THREADS THAT ARE RUNNING
+    // AND ALL THREADS ARE WAITING FOR THE OTHERS
+    // THEN THE WHOLE APPLICATION BLOCKS
+}

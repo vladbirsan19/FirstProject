@@ -2,7 +2,7 @@ package week2;
 
 public class ReturnTypes {
     public static void main(String[] args) {
-        //void means no return tipe
+        //void means no return type
         m1();
         int amount= m2(5,20);
         System.out.println("Amount is :" +amount);
